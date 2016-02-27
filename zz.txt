@@ -1,0 +1,32 @@
+
+
+
+
+Saturation Pressure of Water Vapor
+
+The maximum saturation pressure of the water vapor in moist air varies with the temperature of the air vapor mixture and can be expressed as:
+
+    pws = e(77.3450 + 0.0057 T - 7235 / T) / T8.2         (1)
+
+    where
+
+    pws = water vapor saturation pressure (Pa)
+
+    e = the constant 2.718.......
+
+    T = dry bulb temperature of the moist air (K)
+
+
+Density of Water Vapor
+
+The density of water vapor can be expressed as:
+
+    ρw = 0.0022 pw / T         (2)
+
+    where
+
+    pw = partial pressure water vapor (Pa, N/m2)
+
+    ρw = density water vapor (kg/m3)
+
+    T = absolute dry bulb temperature (K)
